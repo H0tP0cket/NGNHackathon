@@ -7,7 +7,7 @@ import Link from 'next/link'
 import Slogo from '../public/logos/Slogo3.png'
 import Image from 'next/image'
 import { motion } from 'framer-motion'
-import * as Scroll from 'react-scroll'
+
 // import {
 //   Link,
 //   Button,
